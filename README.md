@@ -8,7 +8,7 @@ I'm a passionate computer science student currently pursuing my B.Tech in comput
 - **Frontend:** HTML, CSS, Tailwind CSS, React.js
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB
-- **Frameworks/Libraries:** Spring Boot, Hibernate, React.js
+- **Frameworks/Libraries:** React.js, Docker, Jenkins 
 - **Other:** Git
 
 ## 🌱 Currently Learning
